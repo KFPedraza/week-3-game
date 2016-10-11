@@ -1,0 +1,21 @@
+psuedocode for psychic game
+
+key entry function
+
+create letter array
+
+create win counter
+
+create loss counter
+
+create number of guesses left counter
+
+guesses so far list: display guessed letters
+
+call function to choose random letter
+
+if letter is correct, update win counter and call random letter function
+
+if letter is incorrect, update guesses left counter
+
+when guesses left counter reaches zero, update losses counter, call random letter function

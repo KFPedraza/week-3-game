@@ -1,0 +1,23 @@
+Pseudocode for Hangman Game
+
+Press keys function
+
+Create an array (words for Hangman theme)
+-aquarium animals array
+
+Choose a random item in the array, display it by each letter
+
+Hide the letters in the word
+
+Press any key to get started
+-event 1: key event for 1st guess
+
+Guessing letters correctly
+-function for revealing correct letter guesses
+
+Create counters for Letters Already Guessed
+
+Countdown for Number of Guesses Remaining
+
+After win or lose, pick another word to guess
+
