@@ -33,7 +33,7 @@ document.getElementById("loseCounter").innerHTML = "Losses: " + losses;
 document.getElementById("guessesRemaining").innerHTML = "Guesses remaining: " + remaining;
 
 //display letters guessed in lettersGuessed div
-document.getElementById("lettersGuessed").innerHTML = "Guessed so far: " + guesses;
+document.getElementById("lettersGuessed").innerHTML = "Guessed so far:<br>" + guesses;
 }
 
 function playGame(userInput) {
